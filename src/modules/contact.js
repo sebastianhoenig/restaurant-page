@@ -8,7 +8,7 @@ function createContact() {
   const adress = document.createElement("p");
   adress.textContent = "🏠 Haingrabenstraße 1, 61381 Friedrichsdorf";
   const img = document.createElement("img");
-  img.src = "../img/location.png";
+  img.src = "./img/location.png";
   contact.append(phone, adress, img);
   container.append(contact);
   return container;

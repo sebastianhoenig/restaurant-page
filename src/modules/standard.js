@@ -2,7 +2,7 @@ function createNavBar() {
   const navbar = document.createElement("div");
   navbar.classList.add("navbar");
   const img = document.createElement("img");
-  img.src = "../img/logo.png";
+  img.src = "./img/logo.png";
   img.classList.add("logo");
   const ul = document.createElement("ul");
   const liHome = document.createElement("li");

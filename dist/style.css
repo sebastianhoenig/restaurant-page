@@ -42,7 +42,7 @@ body {
 /* content */
 #content {
   margin: 0;
-  background-image: url("../img/background.jpg");
+  background-image: url("./img/background.jpg");
   background-size: cover;
 }
 /* container-home screen */
