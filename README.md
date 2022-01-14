@@ -5,5 +5,7 @@ View My Project Live: https://sebastianhoenig.github.io/restaurant-page/
 What I gained from doing this project:
 
 -Learned the basics of npm and webpack
+
 -How to load page content dynamically when the user switches tabs to the same window
+
 -How to deploy a npm project to gh pages
