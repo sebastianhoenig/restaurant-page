@@ -12,3 +12,4 @@ What I gained from doing this project:
 
 ---
 
+![calc](https://user-images.githubusercontent.com/90109108/149429048-90befe81-b00e-4618-bf26-7b6f88d2cd39.gif)
