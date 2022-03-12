@@ -1,18 +1,14 @@
-The Restaurant-page project from The Odin Project's JavaScript curriculum. https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript/lessons/weather-app
+The Restaurant-page project project from The Odin Project's JavaScript curriculum. https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript/lessons/restaurant-page
 
-View My Project Live: https://sebastianhoenig.github.io/weather-app/
+View My Project Live: https://sebastianhoenig.github.io/restaurant-page/
 
 What I gained from doing this project:
 
--Learned to use async/await and Promises and the fetch API
+-Learned the basics of npm and webpack
 
--Got more familiar on how to use API and handle Json Data
+-How to load page content dynamically when the user switches tabs to the same window
 
-Todo's:
-
-- Automatic location tracker and display users weather
-
-- Implement lessons learned from form validation
+-How to deploy a npm project to gh pages
 
 ---
 
